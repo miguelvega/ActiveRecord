@@ -6,3 +6,8 @@
 
 
 ![](https://github.com/miguelvega/ActiveRecord/blob/main/Imagenes/3.png)
+
+![](https://github.com/miguelvega/ActiveRecord/blob/main/Imagenes/4.png)
+
+
+![](https://github.com/miguelvega/ActiveRecord/blob/main/Imagenes/5.png)
