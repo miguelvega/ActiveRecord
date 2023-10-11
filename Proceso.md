@@ -31,3 +31,7 @@ end
 
 ![](https://github.com/miguelvega/ActiveRecord/blob/main/Imagenes/6.png)
 
+Luego, pasamos todas las pruebas, ejecutamos el comando `bundle exec rspec spec/activerecord_practice_spec.rb` y nos sale lo siguiente:
+
+![](https://github.com/miguelvega/ActiveRecord/blob/main/Imagenes/7.png)
+
