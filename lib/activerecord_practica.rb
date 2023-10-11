@@ -18,6 +18,7 @@ class Customer < ActiveRecord::Base
   def self.any_candice
     # Tu codigo aqui para devolver todos los clientes cuyo nombre sea Candice
     # probablemente algo asi:  Customer.where(....)
+    Customer.where(first: 'Candice')
   end
   def self.with_valid_email
     # Tu codigo aqui para devolver solo clientes con direcciones de correo electronico validas (que contengan '@')
