@@ -37,6 +37,9 @@ Seguimos editando el archivo `activerecord_practica.rb` con el objetivo de pasar
 
 Con lo cual conseguimos pasar todas las pruebas.
 
+Luego, usamos la herramienta guard con lo cual nos muestra lo siguiente:
 ![](https://github.com/miguelvega/ActiveRecord/blob/main/Imagenes/8.png)
+
+En una ventana del editor, realizamos un cambio trivial en el `specfile` o en `activerecord_practica.rb`, nsertar un espacio  y guardamos el archivo. En uno o dos segundos, la ventana de terminal que ejecuta Guard debería cobrar vida cuando Guard intenta volver a ejecutar las pruebas
 
 ![](https://github.com/miguelvega/ActiveRecord/blob/main/Imagenes/9.png)
