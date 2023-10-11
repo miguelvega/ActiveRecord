@@ -12,7 +12,7 @@ class Customer < ActiveRecord::Base
   def to_s
     "  [#{id}] #{first} #{last}, <#{email}>, #{birthdate.strftime('%Y-%m-%d')}"
   end
-
+  
   # NOTA: Cada uno de estos se puede resolver por completo mediante llamadas de ActiveRecord.
   # No deberías necesitar llamar a las funciones de  Ruby para ordenar, filtrar, etc.
   def self.any_candice
@@ -20,6 +20,7 @@ class Customer < ActiveRecord::Base
     # probablemente algo asi:  Customer.where(....)
     Customer.where(first: 'Candice')
   end
+  
   def self.with_valid_email
     Customer.where("email LIKE '%@%'")
   end
