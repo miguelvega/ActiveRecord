@@ -31,7 +31,8 @@ end
 
 ![](https://github.com/miguelvega/ActiveRecord/blob/main/Imagenes/6.png)
 
-Luego, pasamos todas las pruebas, ejecutamos el comando `bundle exec rspec spec/activerecord_practice_spec.rb` y nos sale lo siguiente:
+Seguimos editando el archivo `activerecord_practica.rb` con el objetivo de pasar todas las pruebas y ejecutamos el comando `bundle exec rspec spec/activerecord_practice_spec.rb`.
 
 ![](https://github.com/miguelvega/ActiveRecord/blob/main/Imagenes/7.png)
 
+Con lo cual conseguimos pasar todas las pruebas.
