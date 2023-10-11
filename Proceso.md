@@ -11,3 +11,6 @@
 
 
 ![](https://github.com/miguelvega/ActiveRecord/blob/main/Imagenes/5.png)
+
+![](https://github.com/miguelvega/ActiveRecord/blob/main/Imagenes/6.png)
+
