@@ -1,4 +1,5 @@
 # ActiveRecord
+Ejecutamos `bundle` para asegurarse de tener las gemas necesaria
 
 ![](https://github.com/miguelvega/ActiveRecord/blob/main/Imagenes/1.png)
 
