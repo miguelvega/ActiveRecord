@@ -36,3 +36,7 @@ Seguimos editando el archivo `activerecord_practica.rb` con el objetivo de pasar
 ![](https://github.com/miguelvega/ActiveRecord/blob/main/Imagenes/7.png)
 
 Con lo cual conseguimos pasar todas las pruebas.
+
+![](https://github.com/miguelvega/ActiveRecord/blob/main/Imagenes/8.png)
+
+![](https://github.com/miguelvega/ActiveRecord/blob/main/Imagenes/9.png)
